@@ -1,0 +1,20 @@
+# Node / frontend modules
+frontend/node_modules/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Database
+backend/database.db
+*.db
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Build files
+frontend/build/
